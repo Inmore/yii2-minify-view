@@ -35,7 +35,7 @@ return [
 	'components' => [
 		// ...
 		'view' => [
-			'class' => '\rmrevin\yii\minify\View',
+			'class' => '\rmrevin\yii\minify\View1',
 			'enableMinify' => !YII_DEBUG,
 			'web_path' => '@web', // path alias to web base
 			'base_path' => '@webroot', // path alias to web base
